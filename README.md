@@ -24,7 +24,8 @@ To run the To-Do List app on your machine, please follow these steps:
 5. Start the Metro development server by running the command:
 ```npx react-native start```
 
-6. In a separate terminal or command prompt, build and run the app on the connected Android device or emulator by running the following command:
+6. In a separate terminal or command prompt, build and run the app on the connected Android device or emulator by running the command:
+```npx react-native run-android```
 
 This command will bundle the JavaScript code and install the app on the device or emulator.
 
